@@ -1,1 +1,1 @@
-this is a chapter 1 first version of testing git
+this is a chapter 1 secound version of testing git
