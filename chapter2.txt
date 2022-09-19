@@ -1,0 +1,1 @@
+this is a first version og chapter 2 of git demo
